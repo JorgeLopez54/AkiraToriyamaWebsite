@@ -1,0 +1,108 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+html {
+	font-size: 10px;
+	line-height: 1.6;
+}
+
+h1 {
+	font-size: 3.2rem;
+	margin: 1.6rem;
+}
+
+h2 {
+	font-size: 2.1rem;
+	font-style: oblique;
+	margin: 1.6rem;
+}
+
+figcaption {
+	font-size: 1.2rem;
+	text-align: right;
+	font-style: oblique;
+	margin-right: 4rem;
+	letter-spacing: 0.05rem;
+}
+
+
+ul {
+	font-size: 1.5rem;
+	list-style-position: inside;
+	list-style-type: none;
+	margin: 1.6rem;
+	padding-right: 6rem;
+	padding-left: 6rem;
+}
+
+h3 {
+	font-size: 1.8rem;
+	font-style: oblique;
+	margin: 1.6rem;
+	margin-top: 3.8rem;
+	color: #E92512;
+	padding-left: 2.2rem;
+	letter-spacing: 0.1rem;
+}
+
+p {
+	font-size: 1.4rem;
+}
+
+footer {
+	margin: 1.6rem;
+}
+
+p, ul, figcaption {
+	font-family: Helvetica, Arial, sans-serif;
+}
+
+h1, h2 {
+	text-align: center;
+}
+
+.container {
+	width: 82%;
+	margin: 4.5rem auto;
+	margin-top: 3.5rem;
+	background-color: rgba(255, 246, 123, 0.45);
+	padding: 4rem;
+	border-radius: 2.5rem;
+	border: 3px solid #E92512;
+}
+
+.img-figure img{
+	max-width: 90%;
+	display: block;
+	height: auto;
+	margin: auto;
+	margin-bottom: -1.5rem;
+	border: 1px solid #DBB400;
+	padding: 0.2rem;
+	border-radius: 2.5rem;
+}
+
+ul li {
+	padding-left: 2rem;
+	background-image: url(dragonBall.ico);
+	background-position: 0 0;
+	background-size: 1.6rem 1.6rem;
+	background-repeat: no-repeat;
+	text-align: justify;
+}
+
+hr {
+	margin-bottom: 6rem;
+	margin-top: 6rem;
+	margin-left: 3.2rem;
+	margin-right: 3.2rem;
+	height: 0.25rem;
+	background-image: linear-gradient(to right, rgba(20, 37, 121, 0), rgba(20, 37, 121, 1), rgba(20, 37, 121, 0));
+	border: 0;
+}
+
+
+
+
